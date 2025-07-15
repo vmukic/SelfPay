@@ -2,5 +2,6 @@ When the vehicle enters the parking lot, the OCR reads the vehicle licence plate
 When leaving, the user enters the vehicle licence plate number using the touch screen at the kiosk.
 Payment is possible with banknotes and cards. A fiscalized payment confirmation is issued.
 
-![self-checkout kiosk](kiosk 01.jpg)
+![self-checkout kiosk]
+(kiosk 01.jpg)
 
