@@ -3,4 +3,4 @@ When leaving, the user enters the vehicle licence plate number using the touch s
 Payment is possible with banknotes and cards. A fiscalized payment confirmation is issued.
 
 
-<img src="./kiosk 01.png"  width="250px"> <img src="./kiosk 02.png"  width="350px">
+<img src="./kiosk 01.png"  width="250px"> <img src="./kiosk 02.png"  width="320px">
