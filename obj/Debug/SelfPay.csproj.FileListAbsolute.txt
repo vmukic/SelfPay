@@ -1,0 +1,8 @@
+E:\visual studio projects\SelfPay\SelfPay\bin\Debug\SelfPay.exe
+E:\visual studio projects\SelfPay\SelfPay\bin\Debug\SelfPay.pdb
+E:\visual studio projects\SelfPay\SelfPay\obj\Debug\ResolveAssemblyReference.cache
+E:\visual studio projects\SelfPay\SelfPay\obj\Debug\SelfPay.frmMainForm.resources
+E:\visual studio projects\SelfPay\SelfPay\obj\Debug\SelfPay.Properties.Resources.resources
+E:\visual studio projects\SelfPay\SelfPay\obj\Debug\SelfPay.csproj.GenerateResource.Cache
+E:\visual studio projects\SelfPay\SelfPay\obj\Debug\SelfPay.exe
+E:\visual studio projects\SelfPay\SelfPay\obj\Debug\SelfPay.pdb
